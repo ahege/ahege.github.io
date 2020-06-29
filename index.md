@@ -7,3 +7,8 @@ abenteuerlustig, abgehoben, anspruchsvoll, athletisch, authentisch, gütmütig, 
 * gutmütig
 * einladend
 * ehrgeizig
+
+Mein Mutter sagte immer:
+
+> Gut gemeint ist manchmal das 
+> Gegenteil von gut gemacht.
