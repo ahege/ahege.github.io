@@ -12,3 +12,5 @@ Mein Mutter sagte immer:
 
 > Gut gemeint ist manchmal das 
 > Gegenteil von gut gemacht.
+
+<img src="https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg"/>
